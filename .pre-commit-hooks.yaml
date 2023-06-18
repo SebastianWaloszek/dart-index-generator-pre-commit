@@ -1,0 +1,5 @@
+-   id: dart-index-generator
+    name: Dart Index Generator
+    entry: run
+    language: script
+    files: \.dart$
